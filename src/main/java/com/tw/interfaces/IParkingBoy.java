@@ -1,4 +1,9 @@
-package com.tw;
+package com.tw.interfaces;
+
+import com.tw.Car;
+import com.tw.ParkLot;
+import com.tw.ParkSlot;
+import com.tw.Receipt;
 
 public interface IParkingBoy {
     public Long getAvailblePark();

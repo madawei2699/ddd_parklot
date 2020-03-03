@@ -2,6 +2,7 @@ package com.tw;
 
 import com.tw.exceptions.ParkLotCarFullException;
 import com.tw.exceptions.ParkLotNotFoundException;
+import com.tw.interfaces.IParkingBoy;
 
 import java.util.ArrayList;
 import java.util.List;
