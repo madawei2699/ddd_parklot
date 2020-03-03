@@ -17,3 +17,13 @@
 ```
 mvn test
 ```
+
+## Code Review Problem
+
+- ParkingBoy没必要知道ParkId，自动选择即可
+- 接口没必要抽出来，如果抽出来，依赖的必须是接口而不是实现
+- HashMap比List要好
+- 不对外暴露的属性没必要设置Getter/Setter
+- Model和UML图保持一致
+- 检查IDEA的自动提示，不断重构
+- 无副作用的函数：停车和获取小票的逻辑分开，原子操作
