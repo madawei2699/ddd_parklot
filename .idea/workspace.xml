@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a5c5ba6-a76d-487b-a603-9aa481588553" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YbEvpEuHNZZ0xSamRoZFEc7bOf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tw.exceptions" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tw" />
+      <recent name="com.tw.interfaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ParkingLotTest.should_get_no_car_when_give_invalid_receipt">
+    <configuration name="ParkingLotTest.should_get_car_when_give_valid_receipt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parking_lot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tw" />
+      <option name="MAIN_CLASS_NAME" value="com.tw.ParkingLotTest" />
+      <option name="METHOD_NAME" value="should_get_car_when_give_valid_receipt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParkingLotTest.should_get_no_car_when_give_invalid_receipt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parking_lot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tw" />
+      <option name="MAIN_CLASS_NAME" value="com.tw.ParkingLotTest" />
+      <option name="METHOD_NAME" value="should_get_no_car_when_give_invalid_receipt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParkingLotTest.should_receipt_valid_when_parkingLot_has_receipt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parking_lot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tw" />
+      <option name="MAIN_CLASS_NAME" value="com.tw.ParkingLotTest" />
+      <option name="METHOD_NAME" value="should_receipt_valid_when_parkingLot_has_receipt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ParkingLotTest.should_get_no_car_when_give_invalid_receipt" />
+        <item itemvalue="JUnit.ParkingLotTest.should_get_car_when_give_valid_receipt" />
+        <item itemvalue="JUnit.ParkingLotTest.should_receipt_valid_when_parkingLot_has_receipt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a5c5ba6-a76d-487b-a603-9aa481588553" name="Default Changelist" comment="" />
+      <created>1583203126770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583203126770</updated>
+      <workItem from="1583203130203" duration="220000" />
+      <workItem from="1583203482653" duration="112000" />
+      <workItem from="1583203610121" duration="3893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1583207002360">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1583207002360" />
+    <state x="528" y="269" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583203494783">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="528" y="269" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583203494783" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1583207746256">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583207746256" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1583207746254">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583207746254" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1583207746253">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583207746253" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1583207746255">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583207746255" />
+    <state x="328" y="108" key="SettingsEditor" timestamp="1583205449038">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="108" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1583205449038" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tw/ParkingLot.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
