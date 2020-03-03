@@ -9,13 +9,13 @@ import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class ParkingLot implements IParkingLot {
+public class ParkLot implements IParkingLot {
 
     private Long id;
     private List<Car> cars;
     private List<Receipt> receipts;
 
-    public ParkingLot(Long id) {
+    public ParkLot(Long id) {
         this.id = id;
         this.cars = new ArrayList<>();
         this.receipts = new ArrayList<>();
@@ -66,11 +66,18 @@ public class ParkingLot implements IParkingLot {
 
     public Receipt parkCar(Car car) {
         Receipt receipt = new Receipt(car.plateNumber, new Date());
-        if (this.cars.size() >= ParkLotConstant.MAX_PARKSLOT_NUMBER) {
+        if (!this.isParkLotAvailable()) {
             throw new ParkLotCarFullException(String.format("ParkLot %d is full, please use another to park", this.id));
         }
         this.cars.add(car);
         this.receipts.add(receipt);
         return receipt;
+    }
+
+    public Boolean isParkLotAvailable() {
+        if (this.cars.size() >= ParkLotConstant.MAX_PARKSLOT_NUMBER) {
+            return false;
+        }
+        return true;
     }
 }
