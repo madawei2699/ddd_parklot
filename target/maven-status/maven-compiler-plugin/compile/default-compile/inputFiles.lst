@@ -1,9 +1,0 @@
-/Users/dawei.ma/Workspace/study/arch/ddd/parking_lot/src/main/java/com/tw/exceptions/DomainException.java
-/Users/dawei.ma/Workspace/study/arch/ddd/parking_lot/src/main/java/com/tw/Receipt.java
-/Users/dawei.ma/Workspace/study/arch/ddd/parking_lot/src/main/java/com/tw/exceptions/ParkLotCarFullException.java
-/Users/dawei.ma/Workspace/study/arch/ddd/parking_lot/src/main/java/com/tw/interfaces/IParkingLot.java
-/Users/dawei.ma/Workspace/study/arch/ddd/parking_lot/src/main/java/com/tw/ParkingLot.java
-/Users/dawei.ma/Workspace/study/arch/ddd/parking_lot/src/main/java/com/tw/exceptions/CarNotFoundException.java
-/Users/dawei.ma/Workspace/study/arch/ddd/parking_lot/src/main/java/com/tw/ParkLotConstant.java
-/Users/dawei.ma/Workspace/study/arch/ddd/parking_lot/src/main/java/com/tw/ParkSlot.java
-/Users/dawei.ma/Workspace/study/arch/ddd/parking_lot/src/main/java/com/tw/Car.java
